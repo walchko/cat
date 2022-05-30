@@ -1,6 +1,17 @@
-MIT License
+# Cat
 
-Copyright (c) 2022 Kevin Walchko
+*Still in development*
+
+```python
+from cat import getCode
+
+getCode(imp="numpy")
+```
+
+
+# MIT License
+
+**Copyright (c) 2022 Kevin Walchko**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
