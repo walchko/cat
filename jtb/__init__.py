@@ -1,6 +1,6 @@
 ##############################################
 # The MIT License (MIT)
-# Copyright (c) 2016 Kevin Walchko
+# Copyright (c) 2022 Kevin Walchko
 # see LICENSE for full details
 ##############################################
 
@@ -10,4 +10,4 @@ from .jupyter import getCode
 
 __author__ = 'Kevin J. Walchko'
 __license__ = 'MIT'
-__version__ = version("cat")
+__version__ = version("jtb")

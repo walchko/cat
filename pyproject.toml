@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "cat"
+name = "jtb"
 version = "0.0.1"
 description = "Display code in jupyter notebooks"
 authors = ["walchko <walchko@users.noreply.github.com>"]
