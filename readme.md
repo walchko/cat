@@ -3,9 +3,12 @@
 *Still in development*
 
 ```python
-from cat import getCode
+from jtb import getCode
 
-getCode(imp="numpy")
+# breakout a function or class
+from numpy.linalg import norm
+
+getCode(imp=norm)
 ```
 
 
