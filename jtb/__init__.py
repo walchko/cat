@@ -6,7 +6,7 @@
 
 
 from importlib.metadata import version # type: ignore
-from .jupyter import getCode
+from .jupyter import getCodeUrl, getCodeFile, getCodeImport
 
 __author__ = 'Kevin J. Walchko'
 __license__ = 'MIT'
